@@ -1,7 +1,7 @@
 Clustered voxel real-time global illumination
 ========
 
-.. image:: banner.gif
+![](banner.gif)
 
 This project contains a full implementation of clustered voxel real-time global illumination, including all the graphics framework written in C++ and Vulkan, and all the shaders needed for the technique.
 
